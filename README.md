@@ -19,7 +19,7 @@ I'm a passionate **Backend Developer** specialized in **Python**, **Django**, an
 - 📄 Resume download button
 - 📱 Responsive design
 - 🌐 Custom domain with HTTPS (asu2sh.com)
-- ⚡ Fast static site using HTML, CSS, JS (or any frontend framework if used)
+- ⚡ Super Fast static site using HTML, CSS (no bloat)
 
 ---
 
